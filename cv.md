@@ -21,3 +21,7 @@ I set out to change my field of activity. I try to study frontend development in
 * gulp
 * npm
 * figma
+
+### Code example
+* CLI game ["Brain games"](https://github.com/Alexsander-19/frontend-project-lvl1)
+* CLI tools ["Difference calculator"](https://github.com/Alexsander-19/frontend-project-lvl2)
