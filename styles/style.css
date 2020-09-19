@@ -1,0 +1,89 @@
+@import './normalize.css';
+
+html {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(0,0,0);
+}
+body {
+  position: relative;
+  width: 1024px;
+  margin: 0 auto;
+  box-shadow: 0 0 10px #000000;
+  background-color: #FDFDFD;
+  box-sizing: border-box;
+}
+.header {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  background-color: #cece9a;
+  z-index: 1;
+}
+.header__title {
+  font-size: 32px;
+  line-height: 38px;
+  margin: 0 0 15px 0;
+}
+.header__subtitle {
+  font-size: 24px;
+  line-height: 28px;
+}
+.avatar {
+  width: 240px;
+  height: 240px;
+  padding: 0 20px 0 0;
+  z-index: 6;
+}
+.title-wrapper {
+  text-align: center;
+  margin: auto;
+}
+.main-container {
+  display: flex;
+  padding: 20px;
+}
+.wrapper-background {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 280px;
+  z-index: 3;
+  background-color: #345383;
+}
+.left-column {
+  padding: 0 20px 0 0;
+  color: #ffffff;
+  z-index: 6;
+}
+.contacts {
+  width: 240px;
+}
+.right-column {
+  padding: 0 0 0 20px;
+}
+.about {
+  margin: 0 0 30px 0;
+}
+.about p {
+  font-size: 18px;
+  line-height: 22px;
+  margin: 0;
+}
+h3 {
+  font-size: 24px;
+  margin: 0 0 15px 0;
+}
+ul {
+  margin: 0 0 30px 0;
+  font-size: 16px;
+  line-height: 24px;
+}
+li {
+  margin: 0 0 10px 0;
+}
+.contacts__phone {
+  color: #ffffff;
+}
+/* .header__title {
+  color: red;
+} */
