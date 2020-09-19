@@ -8,7 +8,7 @@
 * mobile-phone: +375-29-5564304
 
 ### about me:
-I set out to change my field of activity. I try to study frontend development in my free time. Responsible, hardworking, likes to learn new and interesting things.
+In my spare time, I study frontend development. I want to change my field of activity and work as a developer.
 
 ### skills:
 * html
