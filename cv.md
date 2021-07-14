@@ -1,5 +1,3 @@
-# Curriculum vitae
-
 ## Alexander Granovski
 
 ### contacts:
@@ -12,7 +10,6 @@ In my spare time, I study frontend development. I want to change my field of act
 
 ### skills:
 * html
-* bem
 * css
 * scss
 * javascript
