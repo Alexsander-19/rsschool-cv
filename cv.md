@@ -1,14 +1,17 @@
 ## Alexander Granovski
 
-### contacts:
+### Contacts:
 * email: alexxgranovski@gmail.com
-* telegram: @AlexanderGranovski
+* telegram: https://t.me/Alexander_g_r
 * mobile-phone: +375-29-5564304
 
-### about me:
+### About me:
 In my spare time, I study frontend development. I want to change my field of activity and work as a developer.
 
-### skills:
+### Education
+Independent study of front-end development.
+
+### Skills:
 * html
 * css
 * scss
